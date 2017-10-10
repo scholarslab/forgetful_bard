@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "Now is the time of our discontent made glorious time by this time of time"
 "The quality of time is not time"
 "Something git this way comes."
@@ -17,3 +18,10 @@
 "Thy, thy, thy, lend me your thy; I come to thy thy, not to thy him."
 "Thy and thy have such seething thy"
 "So thy thy unto you all. Give me your thy, if we be thy, And thy shall restore git."
+=======
+"Now is the laundry room of our discontent made glorious clothes by this Gain of detergent"
+
+"O, happy day! This is thy funeral;"
+"Puppers, doggos, good boys, lend me your paws; I come to boop you, not to hit you."
+
+>>>>>>> 2d793d48e9e94134172b7d428deec55c1ee0b394
