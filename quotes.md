@@ -1,4 +1,4 @@
-"Now is the laundry room of our discontent made glorious clothes by this Gain of detergent"
+"Now is the l of our discontent made glorious  by this "
 "The quality of ____ is not ____"
 "Something ___ this way comes."
 "____ die many times before their deaths; the ____ never taste of death but once."
